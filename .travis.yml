@@ -1,0 +1,14 @@
+sudo: false
+language: ruby
+rvm:
+- '2.2'
+env:
+  - NODE_JS_VERSION='6'
+install:
+  - nvm install $NODE_JS_VERSION
+  - nvm use $NODE_JS_VERSION
+  - npm install
+script:
+  - npm test
+after_failure:
+  - ./.travis/review-textlint.sh
