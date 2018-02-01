@@ -1,0 +1,25 @@
+{
+  "name": "guidelines",
+  "version": "1.0.0",
+  "description": "> ビットコインキャッシュはインターネット上で使用できるピアツーピアの電子通貨です。 > 非中央集権の仕組みにより、中央機関やサービス運営者などの第三者を信頼する必要がありません。 > > ビットコインキャッシュは \"Peer-to-Peer Electronic Cash\" という元々のビットコインのプロジェクトを引き継ぐ存在です。 > ビットコインキャッシュはビットコインのブロックチェーン台帳からのフォークで、さらなる成長と拡大を可能にする進化した合意形成ルールを備えています.",
+  "main": "index.js",
+  "scripts": {
+    "textlint": "textlint -f pretty-error",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-Cash-JP/guidelines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-Cash-JP/guidelines/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-Cash-JP/guidelines#readme",
+  "devDependencies": {
+    "textlint": "^10.1.4",
+    "textlint-rule-common-misspellings": "^1.0.1",
+    "textlint-rule-preset-japanese": "^4.0.0"
+  }
+}
