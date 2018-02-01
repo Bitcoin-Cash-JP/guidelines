@@ -76,6 +76,6 @@ BCH決済は二通り
 
 # 決済に関する税法上のリスク
 
-#Contributer
+#Contributor
 [@rain_vc](https://twitter.com/rain_vc/)
 [@crypto_apple](https://twitter.com/crypto_apple)
