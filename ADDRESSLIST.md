@@ -1,4 +1,3 @@
-{| width="500px" class="custom-css" style="color:#6e7955"
 |   名前 |  TwitterID  |  BCHアドレス   |  一言！    |  
 |  :-:    |  :-:    |  :-:    |  :-:    |  
 |  ブロックちゃん    |  block_chan |  bitcoincash:qpk7j5zfzde0cusm97gs4geuj7dxxdkelc2wgxjzmh |  BCH AAマンガ書いてます。貰ったチップは主に技術調査費に使います！٩(  ´͈ ᵕ `͈ ๑)  |  
@@ -8,4 +7,4 @@
 |  RAS3   |  RAS329109387   |  bitcoincash:qzqglghydcudc6gh7qygph3p463t30l7cy46q32kln |  BCH普及活動してます!雨弓さんとgregore-BCHさんに魅了され、今にいたります✨   |  
 |  しいな    |  bch1min    |  bitcoincash:qzugmtcsyezvummv9qys434h9uagmx30dc53g6am80 |  初心者向けBCHブログを運営しています。いただいたチップは執筆活動に充てます、よろしくお願いします。 |  
 |  IYU    |  tgdjgjtpgj |  bitcoincash:qzs6zum8dmjhzd3tturn072eqhzjhtl2wvdtzgq5hs |  お礼&応援チップに活用したいです！！ |  
-|  お腰 |  Nyazito    |  bitcoincash:qpqht6qj4gmm4e8sv6vqaf93z55l88qezcffx9zfy0 |  頂いたTipはココキャッシュ運動でカレー食べたり、投げ銭に使ったり、BCH普及活動費として利用させていただきます！  |}
+|  お腰 |  Nyazito    |  bitcoincash:qpqht6qj4gmm4e8sv6vqaf93z55l88qezcffx9zfy0 |  頂いたTipはココキャッシュ運動でカレー食べたり、投げ銭に使ったり、BCH普及活動費として利用させていただきます！  |
